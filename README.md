@@ -29,4 +29,4 @@ python main.py 0.0.0.0 -m syn/udp/http/* -t *.
 
 # important note before testing/using!!
 
-You accept that you will not use it on illegal activities and the author of this repository will not be responsible. Use it at your own risk.
+You accept that you will not use it on illegal activities and the author of this repository will not be responsible for any kind of misuse. Use it at your own risk.
